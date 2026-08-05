@@ -1,4 +1,4 @@
-# End-to-End Test Automation (Selenium + Pytest + POM)
+# End-to-End Test Automation
 
 This project implements a **complete end-to-end UI testing framework** for a web-based taxi booking application using **Selenium WebDriver**, **Pytest**, and the **Page Object Model (POM)** design pattern.  
 
