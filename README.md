@@ -1,4 +1,4 @@
-# End-to-End Test Automation
+# Automated Data Validation Framework
 
 This project implements a **complete end-to-end UI testing framework** for a web-based taxi booking application using **Selenium WebDriver**, **Pytest**, and the **Page Object Model (POM)** design pattern.  
 
